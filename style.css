@@ -56,6 +56,11 @@ body {
     text-shadow: 1px 1px 1px var(--Gray-500);
 }
 
+.card-title:hover{
+    cursor: pointer;
+    background-color: var(--primary-color);
+}
+
 .card-description{
     color: var(--Gray-500);
     line-height: 1.5;
